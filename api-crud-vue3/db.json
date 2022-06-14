@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Curso Quasar Crud",
+      "author": "patrick monteiro",
+      "content": "Este é um artigo sobre Vue 3, Quasar e API REST."
+    },
+    {
+      "id": 2,
+      "title": "Curso Vue 3",
+      "author": "patrick monteiro",
+      "content": "Este é um artigo sobre Vue 3."
+    },
+    {
+      "title": "teste titulo alterado",
+      "content": "hahahahahahaha <b>alterado</b>",
+      "author": "vitor teste alterado",
+      "id": 3
+    },
+    {
+      "title": "teste da galera",
+      "content": "Teste da galera!",
+      "author": "Steve Jobs",
+      "id": 4
+    }
+  ]
+}
